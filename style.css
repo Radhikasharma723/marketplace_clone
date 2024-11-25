@@ -231,6 +231,16 @@ nav{
    margin-left: 10px;
 }
 
+.dropdown ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.dropdown ul li {
+  margin: 5px 0;
+}
+
 .panel-ops{
    width: 70%;
    font-size: 1rem;
